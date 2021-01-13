@@ -1,0 +1,17 @@
+*.pth
+__pycache__/
+.pytest_cache/
+.vscode/
+.idea/
+*.yaml
+checkpoints*/
+*.0
+*.onnx
+*.pdiparams
+*.info
+*.pdmodel
+runs/*
+*/__pycache__
+.history
+saved_model/
+/*.yml
