@@ -1,3 +1,23 @@
+<<<<<<< HEAD
 /.vscode
 /.history
 /__pycache__
+=======
+*.pth
+__pycache__/
+.pytest_cache/
+.vscode/
+.idea/
+*.yaml
+checkpoints*/
+*.0
+*.onnx
+*.pdiparams
+*.info
+*.pdmodel
+runs/*
+*/__pycache__
+.history
+saved_model/
+/*.yml
+>>>>>>> fc477e9a887c28ae5af4bbd29ac49186cc3680d3
